@@ -18,6 +18,8 @@ struct ContentView: View {
                 .padding()
             Text("Test Remote")
                 .padding()
+            Text("Checking")
+                .padding()
         }
     }
 }
