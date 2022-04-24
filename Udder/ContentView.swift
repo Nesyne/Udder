@@ -14,6 +14,8 @@ struct ContentView: View {
                 .padding()
             Text("Better is to come")
                 .padding()
+            Text("This is supper awesome")
+                .padding()
         }
     }
 }
